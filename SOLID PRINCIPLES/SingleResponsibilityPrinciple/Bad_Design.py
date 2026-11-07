@@ -25,7 +25,7 @@ user1.age = 23
 user1.email = "satyam@gmail.com"
 
 user1.showInfo()
-user1.isAdult()
+print(user1.isAdult())
 user1.SaveToDB()
 user1.deleteUser()
 
